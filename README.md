@@ -1,2 +1,2 @@
 # spin-the-bottle
-https://codepen.io/markmanx01/pen/VvezXe to pure javascript
+i’ve based on https://codepen.io/markmanx01/pen/VvezXe to translate it in native javascript
